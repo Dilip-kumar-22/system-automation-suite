@@ -7,7 +7,7 @@ from watchdog.events import FileSystemEventHandler
 
 # --- CONFIGURATION ---
 # UPDATE THIS PATH to your actual Downloads folder
-SOURCE_DIR = r"C:\Users\YourUser\Downloads" 
+SOURCE_DIR = r"C:\Users\samael\Downloads" 
 
 # Destination Categories
 DEST_DIRS = {
